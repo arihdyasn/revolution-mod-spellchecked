@@ -1442,7 +1442,7 @@ g_ship_names_choices = {
         "CANBERRA",  -- RAN
         "MELBOURNE",  -- RAN
         "BONAVENTURE", -- RCN
-        "DREADNAUGHT",
+        "DREADNOUGHT",
         "BELLEROPHON",
     },
     { -- Indian Navy
@@ -1480,14 +1480,14 @@ g_ship_names_choices = {
     },
     { -- Latin
         "JUAN CARLOS",  -- Spain
-        "VENTICINCO DE MAYO", -- Argentina
+        "VEINTICINCO DE MAYO", -- Argentina
         "SAO PAULO",  -- Brazil
         "MINAS GERAIS",  -- Brazil
         "INDEPENDENCIA",  -- Argentina
     },
     { -- Kriegsmarine
         "SEYDLITZ",
-        "BISMARK",
+        "BISMARCK",
         "TIRPITZ",
         "HIPPER",
         "SCHEER",
@@ -1497,7 +1497,7 @@ g_ship_names_choices = {
     },
     { -- Japan
         "AMAGI",
-        "HIYRU",
+        "HIRYU",
         "IZUMO",
         "KAGA",
         "FUJI",
